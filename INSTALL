@@ -1,0 +1,9 @@
+Building Honeycomb
+
+See doc/readme-qt.rst for instructions on building Honeycomb-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Honeycomb.
+
+See doc/build-*.txt for instructions on building honeycombd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Honeycomb.
