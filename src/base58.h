@@ -272,9 +272,9 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 40, // Honeycomb addresses start with L
+        PUBKEY_ADDRESS = 85, // Honeycomb addresses start with L
         SCRIPT_ADDRESS = 5,
-        PUBKEY_ADDRESS_TEST = 100,
+        PUBKEY_ADDRESS_TEST = 83,
         SCRIPT_ADDRESS_TEST = 196,
     };
 
